@@ -1,0 +1,17 @@
+{
+   "compilerOptions": {
+     "strict": true,
+     "noUnusedLocals": false,
+     "noUnusedParameters": true,
+     "noImplicitReturns": true,
+     "noFallthroughCasesInSwitch": true,
+     "esModuleInterop": true,
+     "allowSyntheticDefaultImports": true,
+     "experimentalDecorators": true,
+     "resolveJsonModule": true,
+     "noImplicitAny": false,
+     "moduleResolution": "node",
+     "lib": ["es2017", "dom"],
+     "strictPropertyInitialization": false
+   }
+ }
