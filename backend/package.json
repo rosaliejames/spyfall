@@ -19,7 +19,7 @@
       "tslint": "^6.0.0",
       "tslint-config-prettier": "^1.18.0",
       "tslint-plugin-prettier": "^2.1.0",
-      "typeorm": "0.2.22"
+      "typeorm": "0.2.25"
    },
    "scripts": {
       "start": "ts-node src/index.ts"
